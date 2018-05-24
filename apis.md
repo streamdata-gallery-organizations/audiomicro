@@ -1,20 +1,14 @@
 ---
 name: AudioMicro
 x-slug: audiomicro
-description: AudioMicro, Inc. operates a network of digital content licensing marketplaces,
-  each targeted at a specific vertical - celebrity photos, stock music, sound effects,
-  and YouTube monetization, as well as a few fun and undisclosed web projects. Founded
-  in 2007 and armed with a world-class engineering team, the Company has grown from
-  a fledgling beta website to 3+ online brands and thousands of happy customers served.
-  AudioMicro, Inc. is venture backed by DFJ Frontier, part of the largest VC network
-  in the world with over $7B under management, and Fotolia LLC, a leading stock photo
-  marketplace with over 12 million images and counting.
-image: ""
+description: Royalty Free stock music for any project - web, YouTube, film, TV, radio,
+  DVDs, games, apps & more. License music and sound effects today from AudioMicro.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/693-audiomicro.jpg
 x-kinRank: "7"
-x-alexaRank: ""
+x-alexaRank: "39174"
 tags: AudioMicro
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/audiomicro/master/_listings/audiomicro/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -26,9 +20,13 @@ x-common:
 - type: x-blog-rss
   url: http://www.audiomicro.com/royalty-free-music-blog/feed/
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/audiomicro
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/audiomicro
 - type: x-developer
   url: http://www.audiomicro.com/api
+- type: x-email
+  url: support@audiomicro.com
 - type: x-pricing
   url: http://www.audiomicro.com/license
 - type: x-twitter
